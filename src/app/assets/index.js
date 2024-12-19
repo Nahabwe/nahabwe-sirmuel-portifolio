@@ -49,7 +49,7 @@ export const downloadIcon = <DownloadLineIcon />
 export const arrowLeftIcon = <ArrowLeftSFillIcon />
 
 export const aboutText =
-  " Hi, I'm Nick, a web developer & designer. I blend the technical  skills of web development with the creative aspects of web design. I code in HTML, CSS, JavaScript, React, NextJS... to build functional and responsive websites, while also using design tools like Photoshop and Figma to create visually appealing and user-friendly  interfaces. My role allows me to ensure that websites not only work well but also look great and provide an excellent user experience."
+  " Hi, I'm Nahabwe Sirmuel, a web developer & designer. I blend the technical  skills of web development with the creative aspects of web design. I code in HTML, CSS, JavaScript, React, NextJS... to build functional and responsive websites, while also using design tools like Photoshop and Figma to create visually appealing and user-friendly  interfaces. My role allows me to ensure that websites not only work well but also look great and provide an excellent user experience."
 // End of AboutMe icons
 
 // Skills
@@ -379,7 +379,7 @@ export const questions = [
 ]
 
 import ArrowDropDownLineIcon from 'remixicon-react/ArrowDropDownLineIcon'
-export const QuestionArrow = <ArrowDropDownLineIcon />
+export const questionArrow = <ArrowDropDownLineIcon />
 
 // Reviews
 
